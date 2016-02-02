@@ -1,9 +1,0 @@
-<?php
-	include_once('head.php');
-	include_once('navbar.php');
-
-	//pass data to view
-	include_once('views/'.$controller.'.php');
-
-	include_once('views/footer.php');
-?>
