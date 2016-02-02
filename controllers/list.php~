@@ -1,0 +1,8 @@
+<?php
+locked();
+include_once('models/users.php');
+$list_users = get_users($conn);
+
+include('views/user_list.php');
+
+?>

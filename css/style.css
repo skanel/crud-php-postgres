@@ -1,0 +1,22 @@
+.well{
+	margin-top: 15%;
+}
+#mensaje{
+	margin-top: 3%;
+}
+.navbar-custom {
+    background-color:gray;
+    color:#ffffff;
+    border-radius:0;
+}
+
+.navbar-custom .navbar-nav > li > a {
+    color:#000;
+}
+.navbar-custom .navbar-nav > .active > a, .navbar-nav > .active > a:hover, .navbar-nav > .active > a:focus {
+    color: #ffffff;
+    background-color:transparent;
+}
+.navbar-custom .navbar-brand {
+    color:#eeeeee;
+}
